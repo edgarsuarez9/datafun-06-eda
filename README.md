@@ -54,4 +54,10 @@ seaborn
 ```
 py -m pip install -r requirements.txt
 ```
+## Dataset Description
+
+This dataset contains information on car crashes per state. It includes speeding, alcohol usage, speeding, distracted driver, previous accidents, insurance premiums and losses.
+
+https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv
+
 
