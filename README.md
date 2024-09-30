@@ -60,4 +60,25 @@ This dataset contains information on car crashes per state. It includes speeding
 
 https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv
 
+### Load Data Set
 
+Copy Dataset down to your local folder. Create a Data Folder in your root project. Move dataset into the data folder for a cleaner view. 
+
+## Jupyter Notebook 
+
+Imported Dependencies 
+```
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+import numpy as np  
+```
+To print several first rows of the file. 
+
+```
+# Load the car crashes dataset
+df = sns.load_dataset('car_crashes')
+
+# Display the first few rows
+print(df.head())
+```
