@@ -40,3 +40,18 @@ git commit -m "initial commit"
 git push -u origin main
 git pull
 ```
+## How to Import Dependencies
+
+Create a file in the root folder of your repo (same level as the README.md) named requirements.txt with the following content.
+
+Install the packages listed in the requirements file with this command:
+jupyterlab
+pandas
+pyarrow
+matplotlib
+seaborn
+
+```
+py -m pip install -r requirements.txt
+```
+

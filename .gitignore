@@ -5,3 +5,6 @@
 
 # Visual Studio Code settings and workspace
 .vscode/
+
+# Since this project uses jupyter, jupyter checkpoints have been added
+.ipynb_checkpoints/
