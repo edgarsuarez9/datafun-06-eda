@@ -1,5 +1,7 @@
 # datafun-06-eda
 
+Perform and publish a custom EDA project to demonstrate skills with Jupyter, pandas, Seaborn and popular tools for data analytics. The notebook should tell a data story and visually present findings in a clear and engaging manner.
+
 ## Create Project
 
 Created project in github and Cloned Project down to machine. 
